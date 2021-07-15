@@ -1,2 +1,2 @@
 # yahtzee
-Created with CodeSandbox
+Yahtzee React web app.
